@@ -4,4 +4,4 @@ This project about non linear distortion is part of the SASP course inside the M
 
 **Non linear distortion** uses **Wavetable synthesis** to create signals and then develops **Waveshaping** and **Phase Distortion** tecniques. 
 
-A short presentation shows the principles and a the characteristics of this project.  
+A short [presentation](./SASP_project/NL_distortion_slides.pdf) shows the principles and a the characteristics of this project.  
